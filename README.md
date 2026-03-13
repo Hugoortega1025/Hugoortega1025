@@ -1,10 +1,10 @@
 # Hugo Ortega-Morales
 
-Current Data Science Graduate student with a background in statistics. Foundation experience in statistical modeling, probability, regression, and data anlysis. I am interested in using data to understand real-world applications, with projects covering epidemiological modeling, Bayesian statistics, and performance analytics.
+Current Data Science Graduate student with a background in statistics. Foundation in statistical modeling, probability, regression analysis, and data analysis. I am interested in using data to understand real-world applications, with projects covering epidemiological modeling, Bayesian statistics, and performance analytics.
 
 ## Education
 ### Siena University
-Bachelors of Arts (BA) in Applied Mathematics w/ statistics track
+Bachelors of Arts (BA) in Applied Mathematics - Statistics Track
 Minor Data Science
 
 ### Pace University
