@@ -20,7 +20,7 @@ storytelling that non-technical audiences can act on.
 ### Atlético Madrid — Griezmann Replacement Analysis
 **Football Recruitment Analytics | Python · Tableau**
 
-[→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](Griezmann_Replacement_Analysis_Deliverable.pdf)
+[→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis/blob/main/Griezmann_Replacement_Analysis_Deliverable.pdf)
 
 Cosine similarity modeling and percentile profiling across 2,854 
 players from Europe's top 5 leagues to identify statistical 
@@ -34,7 +34,7 @@ creation profile of any candidate (KP/90 at 99.8th percentile).
 **Healthcare Analytics | SQL · Python · SHAP**
 
 
-[→ View Repository](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | [→ View Deliverable] https://github.com/Hugoortega1025/diabetes-readmission-analysis/blob/main/Diabetes_Readmission_Deck.pdf
+[→ View Repository](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/diabetes-readmission-analysis/blob/main/Diabetes_Readmission_Deck.pdf)
 
 End-to-end analysis of 101,766 patient encounters across 130 US 
 hospitals. Tuned Random Forest flagging system catches 85% of 
