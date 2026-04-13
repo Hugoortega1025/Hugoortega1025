@@ -1,4 +1,4 @@
-# Hugo Ortega-Morales
+# Hugo Ortega-Morales [LinkedIn](https:/www.linkedin.com/in/hugo-ortega-morales)
 ### Data Science Graduate Student | Python · R · SQL
 
 ---
@@ -20,7 +20,7 @@ storytelling that non-technical audiences can act on.
 ### Atlético Madrid — Griezmann Replacement Analysis
 **Football Recruitment Analytics | Python · Tableau**
 
-[→ View Repository] | [→ View Deliverable]
+[→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis/blob/main/Griezmann_Replacement_Deliverable.pdf)
 
 Cosine similarity modeling and percentile profiling across 2,854 
 players from Europe's top 5 leagues to identify statistical 
@@ -33,7 +33,8 @@ creation profile of any candidate (KP/90 at 99.8th percentile).
 ### Diabetes Hospital Readmission Analysis
 **Healthcare Analytics | SQL · Python · SHAP**
 
-[→ View Repository]
+
+[→ View Repository](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | [→ View Deliverable] https://github.com/Hugoortega1025/diabetes-readmission-analysis/blob/main/Diabetes_Readmission_Deck.pdf
 
 End-to-end analysis of 101,766 patient encounters across 130 US 
 hospitals. Tuned Random Forest flagging system catches 85% of 
@@ -45,7 +46,7 @@ inpatient visits confirmed as dominant predictor via SHAP.
 ### Quantium Retail Analytics
 **Business Analytics | Python · scipy**
 
-[→ View Repository]
+[→ View Repository](https://github.com/Hugoortega1025/quantium-retail-analytics)
 
 Quasi-experimental store trial evaluation using Pearson correlation 
 for control store matching and 95% confidence interval testing 
@@ -57,7 +58,7 @@ sales uplift in 2 of 3 trial stores.
 ### Soccer Match Outcome Prediction
 **Sports Analytics | Python · scikit-learn**
 
-[→ View Repository]
+[→ View Repository](https://github.com/Hugoortega1025/soccer-match-result-prediction)
 
 Engineered proxy metrics including threat per possession and shot 
 efficiency as substitutes for xG across 56,000+ match records. 
