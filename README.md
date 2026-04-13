@@ -1,4 +1,4 @@
-# Hugo Ortega-Morales [LinkedIn](https:/www.linkedin.com/in/hugo-ortega-morales)
+# Hugo Ortega-Morales [LinkedIn](https:/www.linkedin.com/in/hugo-ortega-morales/)
 ### Data Science Graduate Student | Python · R · SQL
 
 ---
