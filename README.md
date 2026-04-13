@@ -20,7 +20,7 @@ storytelling that non-technical audiences can act on.
 ### Atlético Madrid — Griezmann Replacement Analysis
 **Football Recruitment Analytics | Python · Tableau**
 
-[→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis/blob/main/Griezmann_Replacement_Deliverable.pdf)
+[→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](Griezmann_Replacement_Analysis_Deliverable.pdf)
 
 Cosine similarity modeling and percentile profiling across 2,854 
 players from Europe's top 5 leagues to identify statistical 
