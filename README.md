@@ -9,15 +9,28 @@ modeling and business intelligence. Currently pursuing an MS in
 Data Science at Pace University with a foundation in Applied 
 Mathematics and Statistics.
 
-My work focuses on translating complex datasets into clear, 
-actionable findings — combining statistical rigor with 
+My work focuses on translating complex datasets into clear, actionable findings — combining statistical concepts with 
 storytelling that non-technical audiences can act on.
+
+---
+
+## Projects
+
+| # | Project | Domain | Core Methods |
+|---|---|---|---|
+| 1 | [Atlético Madrid — Griezmann Replacement Analysis](#1-atlético-madrid--griezmann-replacement-analysis) | Football Analytics | Cosine Similarity · Percentile Profiling |
+| 2 | [Athlete Load Monitoring & Injury Risk Prediction](#2-athlete-load-monitoring--injury-risk-prediction) | Sports Performance | XGBoost · SHAP · K-Means |
+| 3 | [Diabetes Hospital Readmission Analysis](#3-diabetes-hospital-readmission-analysis) | Healthcare Analytics | Random Forest · SHAP · SQL |
+| 4 | [Quantium Retail Analytics](#4-quantium-retail-analytics) | Business Analytics | A/B Testing · Quasi-Experimental |
+| 5 | [Soccer Match Outcome Prediction](#5-soccer-match-outcome-prediction) | Sports Analytics | Machine Learning · Feature Engineering |
+| 6 | [Bayesian Hierarchical Modeling — Strength Training](#6-bayesian-hierarchical-modeling--strength-training) | Performance Analytics | Bayesian Inference · MCMC |
+| 7 | [Ivermectin Intervention Modeling — Ghana](#7-ivermectin-intervention-modeling--ghana) | Epidemiological Modeling | ODE Modeling · Sensitivity Analysis |
 
 ---
 
 ## Featured Projects
 
-### Atlético Madrid — Griezmann Replacement Analysis
+### 1. Atlético Madrid — Griezmann Replacement Analysis
 **Football Recruitment Analytics | Python · Tableau**
 
 [→ View Repository](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/atletico-griezmann-replacement-analysis/blob/main/Griezmann_Replacement_Analysis_Deliverable.pdf)
@@ -30,7 +43,24 @@ creation profile of any candidate (KP/90 at 99.8th percentile).
 
 ---
 
-### Diabetes Hospital Readmission Analysis
+### 2. Athlete Load Monitoring & Injury Risk Prediction
+**Sports Performance Analytics | Python · XGBoost · SHAP · K-Means**
+
+[→ View Repository](https://github.com/Hugoortega1025/athlete-load-injury-risk) | [→ View Deliverable](https://github.com/Hugoortega1025/athlete-load-injury-risk/blob/main/Athlete_Load_Injury_Risk_Deliverable.pdf)
+
+End-to-end injury risk pipeline using seven years of longitudinal 
+training data from 74 elite Dutch distance runners. Engineered the 
+Acute to Chronic Workload Ratio (ACWR) as the primary load spike 
+signal — athletes training at ACWR >= 1.5 show a 9x higher injury 
+rate. XGBoost classifier achieves AUC-ROC of 0.7483. K-Means 
+clustering identifies three distinct training load profiles, 
+revealing that high volume conditioned athletes are structurally 
+less vulnerable to dangerous load spikes than inconsistently 
+training athletes.
+
+---
+
+### 3. Diabetes Hospital Readmission Analysis
 **Healthcare Analytics | SQL · Python · SHAP**
 
 
@@ -43,7 +73,7 @@ inpatient visits confirmed as dominant predictor via SHAP.
 
 ---
 
-### Quantium Retail Analytics
+### 4. Quantium Retail Analytics
 **Business Analytics | Python · scipy**
 
 [→ View Repository](https://github.com/Hugoortega1025/quantium-retail-analytics)
@@ -55,7 +85,7 @@ sales uplift in 2 of 3 trial stores.
 
 ---
 
-### Soccer Match Outcome Prediction
+### 5. Soccer Match Outcome Prediction
 **Sports Analytics | Python · scikit-learn**
 
 [→ View Repository](https://github.com/Hugoortega1025/soccer-match-result-prediction)
@@ -67,7 +97,7 @@ draws identified as the hardest outcome to predict.
 
 ---
 
-### Bayesian Hierarchical Modeling — Strength Training
+### 6. Bayesian Hierarchical Modeling — Strength Training
 **Performance Analytics | R · brms · rstan**
 
 [→ View Repository]
@@ -79,7 +109,7 @@ validate model structure and prior selection.
 
 ---
 
-### Ivermectin Intervention Modeling — Ghana
+### 7. Ivermectin Intervention Modeling — Ghana
 **Epidemiological Modeling | R · deSolve**
 
 [→ View Repository]
@@ -106,9 +136,9 @@ Percentile Profiling · Feature Engineering
 ## Background
 
 - MS in Data Science — Pace University *(In Progress)*
--  BA in Applied Mathematics (Statistics Track) — Siena University
--  Bilingual — English & Spanish
--  Passionate about football — it's where my analytical interest 
+- BA in Applied Mathematics (Statistics Track) — Siena University
+- Bilingual — English & Spanish
+- Passionate about football — it's where my analytical interest 
   started, but the methodology travels across any domain
 
 ---
