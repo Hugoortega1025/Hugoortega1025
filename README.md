@@ -101,7 +101,7 @@ draws identified as the hardest outcome to predict.
 ### 6. Restaurant Operations & Revenue Analytics
 **Business Analytics | Python · MySQL · SQL · Excel**
 
-[→ View Repository](https://github.com/Hugoortega1025/restaurant-operations-analytics)
+[→ View Repository](https://github.com/Hugoortega1025/restaurant-operations-analytics) | [→ View Deliverable](https://github.com/Hugoortega1025/restaurant-operations-analytics/blob/main/Restaurant_Analytics_Deck.pdf)
 
 Designed a 9-table normalized relational database and end-to-end 
 analytics pipeline across 7,000+ synthetic transactions. Cleaned 
