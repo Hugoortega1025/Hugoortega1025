@@ -1,5 +1,5 @@
 # Hugo Ortega-Morales [LinkedIn](https://www.linkedin.com/in/hugo-ortega-morales/)
-### Data Science Graduate Student | Python · R · SQL
+### Data Science Graduate Student | Python · R · SQL · Excel 
 
 ---
 
@@ -23,8 +23,9 @@ storytelling that non-technical audiences can act on.
 | 3 | [Diabetes Hospital Readmission Analysis](#3-diabetes-hospital-readmission-analysis) | Healthcare Analytics | Random Forest · SHAP · SQL |
 | 4 | [Quantium Retail Analytics](#4-quantium-retail-analytics) | Business Analytics | A/B Testing · Quasi-Experimental |
 | 5 | [Soccer Match Outcome Prediction](#5-soccer-match-outcome-prediction) | Sports Analytics | Machine Learning · Feature Engineering |
-| 6 | [Bayesian Hierarchical Modeling — Strength Training](#6-bayesian-hierarchical-modeling--strength-training) | Performance Analytics | Bayesian Inference · MCMC |
-| 7 | [Ivermectin Intervention Modeling — Ghana](#7-ivermectin-intervention-modeling--ghana) | Epidemiological Modeling | ODE Modeling · Sensitivity Analysis |
+| 6 | [Restaurant Operations & Revenue Analytics](#6-restaurant-operations--revenue-analytics) | Business Analytics | SQL · Python · Excel |
+| 7 | [Bayesian Hierarchical Modeling — Strength Training](#7-bayesian-hierarchical-modeling--strength-training) | Performance Analytics | Bayesian Inference · MCMC |
+| 8 | [Ivermectin Intervention Modeling — Ghana](#8-ivermectin-intervention-modeling--ghana) | Epidemiological Modeling | ODE Modeling · Sensitivity Analysis |
 
 ---
 
@@ -97,7 +98,24 @@ draws identified as the hardest outcome to predict.
 
 ---
 
-### 6. Bayesian Hierarchical Modeling — Strength Training
+### 6. Restaurant Operations & Revenue Analytics
+**Business Analytics | Python · MySQL · SQL · Excel**
+
+[→ View Repository](https://github.com/Hugoortega1025/restaurant-operations-analytics)
+
+Designed a 9-table normalized relational database and end-to-end 
+analytics pipeline across 7,000+ synthetic transactions. Cleaned 
+raw data in Python resolving phone format inconsistencies, status 
+typos, duplicate records, and payment mismatches across all 9 
+tables. Engineered 12 SQL analytical queries using joins, 
+aggregations, CASE WHEN, subqueries, and date functions — surfacing 
+a 20x monthly order growth trend, a revenue-volume divergence in 
+menu performance, and a 2x spread in employee cancel rates. 
+Visualized findings in an 8-chart Excel dashboard.
+
+---
+
+### 7. Bayesian Hierarchical Modeling — Strength Training
 **Performance Analytics | R · brms · rstan**
 
 [→ View Repository]
@@ -109,7 +127,7 @@ validate model structure and prior selection.
 
 ---
 
-### 7. Ivermectin Intervention Modeling — Ghana
+### 8. Ivermectin Intervention Modeling — Ghana
 **Epidemiological Modeling | R · deSolve**
 
 [→ View Repository]
@@ -126,10 +144,11 @@ coverage thresholds for long-term disease control.
 **Languages:** Python · R · SQL  
 **Libraries:** pandas · numpy · scikit-learn · matplotlib · seaborn · 
 mplsoccer · statsbombpy · brms · rstan · tidybayes · deSolve  
-**Tools:** Tableau · Databricks · Excel  
+**Tools:** Tableau · Databricks · Excel · MySQL Workbench  
 **Methods:** Cosine Similarity · Bayesian Inference · MCMC · 
 Random Forest · SHAP · Time Series · ODE Modeling · 
-Percentile Profiling · Feature Engineering  
+Percentile Profiling · Feature Engineering · Database Design ·
+Relational Modeling  
 
 ---
 
