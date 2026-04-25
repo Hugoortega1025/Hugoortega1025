@@ -77,7 +77,7 @@ inpatient visits confirmed as dominant predictor via SHAP.
 ### 4. Quantium Retail Analytics
 **Business Analytics | Python · scipy**
 
-[→ View Repository](https://github.com/Hugoortega1025/quantium-retail-analytics)
+[→ View Repository](https://github.com/Hugoortega1025/quantium-retail-analytics) | [→ View Deliverable](https://github.com/Hugoortega1025/quantium-retail-analytics/blob/main/Quantium_Retail_Analytics_Deliverable.pdf)
 
 Quasi-experimental store trial evaluation using Pearson correlation 
 for control store matching and 95% confidence interval testing 
