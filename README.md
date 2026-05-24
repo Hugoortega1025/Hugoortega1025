@@ -24,8 +24,7 @@ storytelling that non-technical audiences can act on.
 | 4 | [Quantium Retail Analytics](#4-quantium-retail-analytics) | Business Analytics | A/B Testing · Quasi-Experimental |
 | 5 | [Soccer Match Outcome Prediction](#5-soccer-match-outcome-prediction) | Sports Analytics | Machine Learning · Feature Engineering |
 | 6 | [Restaurant Operations & Revenue Analytics](#6-restaurant-operations--revenue-analytics) | Business Analytics | SQL · Python · Excel |
-| 7 | [Bayesian Hierarchical Modeling — Strength Training](#7-bayesian-hierarchical-modeling--strength-training) | Performance Analytics | Bayesian Inference · MCMC |
-| 8 | [Ivermectin Intervention Modeling — Ghana](#8-ivermectin-intervention-modeling--ghana) | Epidemiological Modeling | ODE Modeling · Sensitivity Analysis |
+
 
 ---
 
@@ -115,29 +114,6 @@ Visualized findings in an 8-chart Excel dashboard.
 
 ---
 
-### 7. Bayesian Hierarchical Modeling — Strength Training
-**Performance Analytics | R · brms · rstan**
-
-[→ View Repository]
-
-Bayesian hierarchical models with MCMC sampling to quantify 
-individual variability in strength training performance. 
-Reverse-engineered methodology from a peer-reviewed paper to 
-validate model structure and prior selection.
-
----
-
-### 8. Ivermectin Intervention Modeling — Ghana
-**Epidemiological Modeling | R · deSolve**
-
-[→ View Repository]
-
-SEIR compartmental ODE models simulating Ivermectin's dual-disease 
-impact on Onchocerciasis and Malaria transmission dynamics. 
-Parameter sensitivity analysis to identify effective dosing and 
-coverage thresholds for long-term disease control.
-
----
 
 ## Technical Stack
 
