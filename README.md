@@ -30,6 +30,7 @@ Currently pursuing an MS in Data Science at Pace University, with a foundation i
 **Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis**
 
 [→ View Repository](https://github.com/Hugoortega1025/Sales-Marketing-Conversion-Analysis)| [→ View Tableau Dashboard](https://public.tableau.com/views/ProductMarketing_17794131190710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 Analyzed customer and sales data for a tourism company to identify which segments were most likely to purchase travel packages after being pitched. Built an interactive Tableau dashboard and consulting-style slide deck around conversion rate, trips sold, customer share, age groups, traveler type, income, occupation, city tier, and package type.
 
 Key finding: the company’s overall conversion rate was 19.3%, with stronger conversion among 18–29 customers, couples/pair travelers, lower-income groups, and Tier 3 cities. Scenario analysis estimated that raising 30+ customer conversion to the company average could lift total package sales by approximately 14%, while improving family/group travelers to match couples/pairs could add roughly 64 additional package sales.
