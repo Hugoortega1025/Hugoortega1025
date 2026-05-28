@@ -12,21 +12,32 @@ Currently pursuing an MS in Data Science at Pace University, with a foundation i
 ## Projects
 
 | # | Project | Domain | Core Methods |
-|---|---|---|---|
-| 1 | [Sales & Marketing Conversion Analysis](#1-sales--marketing-conversion-analysis) | Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis |
-| 2 | [Diabetes Hospital Readmission Analysis](#2-diabetes-hospital-readmission-analysis) | Healthcare Analytics | Random Forest · SHAP · SQL |
-| 3 | [Quantium Retail Analytics](#3-quantium-retail-analytics) | Business Analytics | A/B Testing · Quasi-Experimental |
-| 4 | [Restaurant Operations & Revenue Analytics](#5-restaurant-operations--revenue-analytics) | Business Analytics | SQL · Python · Excel |
+|---|---------|--------|-------------|
+| 1 | Watson Healthcare Employee Attrition | Employee Analytics in Healthcare | Python · Tableau · Employee Profiling · Segmentation |
+| 2 | Sales & Marketing Conversion Analysis | Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis |
+| 3 | Diabetes Hospital Readmission Analysis | Healthcare Analytics | Random Forest · SHAP · SQL |
+| 4 | Quantium Retail Analytics | Business Analytics | A/B Testing · Quasi-Experimental |
+| 5 | Restaurant Operations & Revenue Analytics | Business Analytics | SQL · Python · Excel |
+
 
 
 ---
 
-## Featured Projects
-
 
 ## Featured Projects
 
-### 1. Sales & Marketing Conversion Analysis
+### 1. Watson Healthcare Employee Attrition Analysis
+Healthcare Analytics | Python · Tableau · Segmentation · Employee Profiling
+
+[→ View Repository](https://github.com/Hugoortega1025/Employee-Attrition-Analysis) | [→ View Tableau Dashboard](https://public.tableau.com/views/EmployeeAttrition_17799308935310/AttritionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Analyzed 1,676 employee records across three clinical departments — Cardiology, Maternity, and Neurology — to identify the structural drivers behind a 12% annual attrition rate. Built a six-phase analysis covering demographics, compensation, overtime, satisfaction, and career progression, culminating in a stakeholder slide deck and interactive Tableau dashboard.
+
+Key finding: overtime workers are 28% of the workforce but responsible for 70% of all departures — a 5.8× rate gap. The analysis surfaces a consistent high-risk profile: employees under 35, earning in the bottom salary quartile, in their first two years, and working overtime leave at 55% — nearly five times the company average. Recommendations target overtime scheduling, entry-level pay floors, and a structured first-year retention program.
+
+---
+
+### 2. Sales & Marketing Conversion Analysis
 **Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis**
 
 [→ View Repository](https://github.com/Hugoortega1025/Sales-Marketing-Conversion-Analysis)| [→ View Tableau Dashboard](https://public.tableau.com/views/ProductMarketing_17794131190710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
@@ -37,7 +48,7 @@ Key finding: the company’s overall conversion rate was 19.3%, with stronger co
 
 ---
 
-### 2. Diabetes Hospital Readmission Analysis
+### 3. Diabetes Hospital Readmission Analysis
 **Healthcare Analytics | SQL · Python · Random Forest · SHAP**
 
 [→ View Repository](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/diabetes-readmission-analysis/blob/main/Diabetes_Readmission_Deck.pdf)
@@ -46,7 +57,7 @@ End-to-end analysis of 101,766 patient encounters across 130 U.S. hospitals. Bui
 
 ---
 
-### 3. Quantium Retail Analytics
+### 4. Quantium Retail Analytics
 **Business Analytics | Python · scipy · A/B Testing**
 
 [→ View Repository](https://github.com/Hugoortega1025/quantium-retail-analytics) | [→ View Deliverable](https://github.com/Hugoortega1025/quantium-retail-analytics/blob/main/Quantium_Retail_Analytics_Deliverable.pdf)
@@ -58,7 +69,7 @@ Key insight: 2 of 3 trial stores showed statistically significant sales uplift, 
 ---
 
 
-### 4. Restaurant Operations & Revenue Analytics
+### 5. Restaurant Operations & Revenue Analytics
 **Business Analytics | Python · MySQL · SQL · Excel**
 
 [→ View Repository](https://github.com/Hugoortega1025/restaurant-operations-analytics) | [→ View Deliverable](https://github.com/Hugoortega1025/restaurant-operations-analytics/blob/main/Restaurant_Analytics_Deck.pdf)
