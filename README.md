@@ -13,11 +13,11 @@ Currently pursuing an MS in Data Science at Pace University, with a foundation i
 
 | # | Project | Domain | Core Methods |
 |---|---------|--------|-------------|
-| 1 | Watson Healthcare Employee Attrition | Employee Analytics in Healthcare | Python · Tableau · Employee Profiling · Segmentation |
-| 2 | Sales & Marketing Conversion Analysis | Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis |
-| 3 | Diabetes Hospital Readmission Analysis | Healthcare Analytics | Random Forest · SHAP · SQL |
-| 4 | Quantium Retail Analytics | Business Analytics | A/B Testing · Quasi-Experimental |
-| 5 | Restaurant Operations & Revenue Analytics | Business Analytics | SQL · Python · Excel |
+| 1 | [Watson Healthcare Employee Attrition](https://github.com/Hugoortega1025/Employee-Attrition-Analysis) | Employee Analytics in Healthcare | Python · Tableau · Employee Profiling · Segmentation |
+| 2 | [Sales & Marketing Conversion Analysis](https://github.com/Hugoortega1025/Sales-Marketing-Conversion-Analysis) | Business Analytics / Marketing Analytics | Tableau · Excel · Customer Segmentation · Scenario Analysis |
+| 3 | [Diabetes Hospital Readmission Analysis](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | Healthcare Analytics | Random Forest · SHAP · SQL |
+| 4 | [Quantium Retail Analytics](https://github.com/Hugoortega1025/quantium-retail-analytics) | Business Analytics | A/B Testing · Quasi-Experimental |
+| 5 | [Restaurant Operations & Revenue Analytics](https://github.com/Hugoortega1025/restaurant-operations-analytics) | Business Analytics | SQL · Python · Excel |
 
 
 
