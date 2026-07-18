@@ -48,12 +48,12 @@ Key finding: the company’s overall conversion rate was 19.3%, with stronger co
 
 ---
 
-### 3. Diabetes Hospital Readmission Analysis
-**Healthcare Analytics | SQL · Python · Random Forest · SHAP**
+### 3. Clinical Diabetes Risk Audit
+**Healthcare Analytics | SQL · Databricks**
 
 [→ View Repository](https://github.com/Hugoortega1025/diabetes-readmission-analysis) | [→ View Deliverable](https://github.com/Hugoortega1025/diabetes-readmission-analysis/blob/main/Diabetes_Readmission_Deck.pdf)
 
-End-to-end analysis of 101,766 patient encounters across 130 U.S. hospitals. Built a tuned Random Forest flagging system that catches 85% of actual early readmissions at a 0.40 probability threshold. Used SHAP to identify prior inpatient visits as the dominant predictor of readmission risk.
+Analyzed 101,766 diabetic patient encounters across 130 U.S. hospitals to identify which patients drive Hospital Readmissions Reduction Program (HRRP) financial penalties. Isolated prior inpatient visit history as the single strongest predictor of early readmission (8.4% → 43.3% across risk tiers) and resolved an initially unexplained elevated-risk signal in young adult patients, tracing it to the same driver. Recommended a zero-infrastructure flagging rule — 2+ prior visits — that hospitals can act on with data already collected at discharge.
 
 ---
 
