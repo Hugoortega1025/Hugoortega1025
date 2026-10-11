@@ -78,10 +78,10 @@ Key finding: overtime workers are 28% of the workforce but 70% of departures. Em
 
 ## Technical Stack
 
-Languages: Python · SQL · R (coursework)
-Python: pandas · NumPy · statsmodels · scikit-learn · SciPy · matplotlib · seaborn
-Data and BI: DuckDB · Databricks · MySQL · Tableau · Excel
-Methods: Multiple Regression & Diagnostics · GLMs · Cross-Validation · Gradient Boosting · Random Forest · Regularization · A/B Testing & Quasi-Experimental Design · Confidence Intervals · Segmentation · Relational & Star Schema Design
+- Languages: Python · SQL · R (coursework)
+- Python: pandas · NumPy · statsmodels · scikit-learn · SciPy · matplotlib · seaborn
+- Data and BI: DuckDB · Databricks · MySQL · Tableau · Excel
+- Methods: Multiple Regression & Diagnostics · GLMs · Cross-Validation · Gradient Boosting · Random Forest · Regularization · A/B Testing & Quasi-Experimental Design · Confidence Intervals · Segmentation · Relational & Star Schema Design
 
 ---
 
