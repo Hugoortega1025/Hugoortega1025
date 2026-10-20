@@ -5,7 +5,7 @@
 
 I build end-to-end data science projects that turn messy data into forecasts, tested findings and clear recommendations: from framing the business question and cleaning the data, through statistical modeling and validation, to a dashboard a manager can read in seconds.
 
-I am completing an MS in Data Science at Pace University (May 2027), with an undergraduate foundation in Applied Mathematics and Statistics. My focus is statistical rigor that leads to decisions: checking model assumptions, validating on data the model has never seen, and being clear about what the evidence does and does not show.
+I am completing an MS in Data Science at Pace University, with an undergraduate foundation in Applied Mathematics and Statistics. My focus is statistical rigor that leads to decisions: checking model assumptions, validating on data the model has never seen, and being clear about what the evidence does and does not show.
 
 ---
 
